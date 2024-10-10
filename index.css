@@ -1,0 +1,28 @@
+h1, h2, h3 {
+font-family: 'Monotype Corsiva';
+color: #FF00FF;
+text-align: center;
+}
+h2, h3 {
+font-size: 20pt;
+    
+}
+p1 {
+color: red;
+font-family: 'Times New Roman';
+font-size: 18pt;
+}
+
+p2 {
+    color: yellow;
+    font-family: 'Times New Roman';
+    font-size: 20pt;
+
+}
+
+p3 {
+    color: green;
+    font-family: 'Times New Roman';
+    font-size: 22pt;
+}
+
